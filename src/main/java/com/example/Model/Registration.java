@@ -25,5 +25,8 @@ public class Registration {
 	private String sname;
 	private int Smobile;
 	private String Saddress;
+	private String SCollege;
+
+	
 
 }
